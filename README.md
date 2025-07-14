@@ -26,7 +26,7 @@ apt update && apt install curl
 
 ### Run Script
 ```bash
-bash -c "$(curl -L https://github.com/thehxdev/xray-install/raw/main/xray.sh)"
+bash -c "$(curl -L https://github.com/esaaprillia/xray-install/raw/main/xray.sh)"
 ```
 
 
